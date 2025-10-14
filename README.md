@@ -37,12 +37,12 @@ Non-inverting amplifier:
 6. Practical gain & theoretical voltage should be approximately equal. 
 7. Plot the graph of the input wave versus output wave for any one practical case. 
 
+## MODEL GRAPH:
+## NON-INVERTING AMPLIFIER 
+<img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
+
 ## TABULATION:
 
-
-## MODEL GRAPH:
-NON-INVERTING AMPLIFIER 
-<img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
 
 ## GRAPH:
 
