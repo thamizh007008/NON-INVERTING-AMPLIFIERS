@@ -57,4 +57,4 @@ Non-inverting amplifier:
 
 
 ## RESULT:
-Thus the Non-Inverting Amplifier are designed and their perforamnce was successfully tested using Op-amp.
+Thus the Non-Inverting Amplifier are designed and their perforamnce was successfully tested using Op-amp IC741.
